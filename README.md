@@ -5,6 +5,7 @@ A projekt célja az Android és iOS operációs rendszerű mobiltelefonok össze
 A projekt MSSQL adatbázis szervert használ az adatok tárolásáért, mint data warehouse. Az ETL
 folyamatokat az Integration Service (SSIS) segítségével kerültek megvalósításra. A reportok készítését PowerBI asztali alkalmazás biztosítja. Az adatelemzés Google Colab Notebook-on valósult meg Pandas és Jupyter könyvtárak segítségével. 
 
+A házi feladat során készített **videó** ezen a [linken](https://drive.google.com/file/d/1ai7xZMhqhXgixLy11fse1ST5dnzJ2jsf/view?usp=sharing) található.
 
 A következő bekezdésekben a pontozásnak megfelelően dokumentálom a házi feladat elkészítése során elvégzett feladatokat.
 
